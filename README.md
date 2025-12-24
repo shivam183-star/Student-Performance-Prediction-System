@@ -82,7 +82,7 @@ The following graph compares actual and predicted performance values:
 ------------------------------------------------------------------------
 
 ## Author
-**Shivam**
+**Shivam Singh**
 - Student | Python Learner
 - @shivam183-star
 
