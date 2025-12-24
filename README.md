@@ -27,7 +27,8 @@ through sample question papers
 
 ## Project Structure
 
-student-performance-predictor/ ├── app.py\
+student-performance-predictor/ 
+├── app.py\
 ├── requirements.txt\
 ├── README.md\
 ├── .gitignore\
